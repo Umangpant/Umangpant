@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/kk0YtQp.gif" width="900" />
+  <img src="https://i.imgur.com/sYVj6xp.gif" width="900"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Umang Pant</h1>
@@ -10,22 +10,21 @@
   <img src="https://komarev.com/ghpvc/?username=Umangpant&label=Profile%20views&color=blue&style=flat" />
 </p>
 
-
 <p align="center">
   <img src="https://i.gifer.com/3Ilv.gif" width="400"/>
 </p>
 
 ---
 
-## 👋 About Me
+ 👋 About Me
 - 💻 Full-stack developer working with **Java, Spring Boot, ReactJS, MySQL**
-- ☁️ Exploring **AWS Cloud** and backend scalability  
-- 🚀 Passionate about **Backend APIs, Security, and DevOps**
-- 📫 Email: **pantumang2001@gmail.com**
+- ☁️ Exploring AWS Cloud and backend scalability  
+- 🚀 Passionate about Backend APIs, Security
+- 📫 Email: pantumang2001@gmail.com
 
 ---
 
-## 🌐 Connect with me
+ 🌐 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/umang-pant-b8a85123a" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
@@ -37,40 +36,40 @@
 
 ---
 
-## 🛠️ Languages & Tools (Fully aligned with your resume)
+## 🛠️ Languages & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,react,javascript,html,css,mysql,aws,git,github,postman,idea,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+ 🚀 Featured Projects
 
-### 🚗 **CDRIVE – Car Renting Website**
+ 🚗 CDRIVE – Car Renting Website
 - Full-stack web app using ReactJS + Spring Boot  
 - JWT Authentication, Spring Security  
 - RabbitMQ messaging + MySQL database  
-🔗 Repo: **https://github.com/Umangpant/CDRIVE**
+🔗 Repo: https://github.com/Umangpant/CDRIVE
 
 ---
 
-### 💹 **CCOIN – Crypto Price Tracker**
+ 🪙 CCOIN – Crypto Price Tracker
 - Real-time crypto tracker using CoinGecko API  
-- AWS S3 + CloudFront deployment  
-- Responsive UI  
-🔗 Live: **https://ccoin-navy.vercel.app**  
-🔗 Repo: **https://github.com/Umangpant/CCOIN**
+- Deployed on Vercel for fast global performance  
+- Responsive UI built with React    
+🔗 Live: https://ccoin-navy.vercel.app 
+🔗 Repo: https://github.com/Umangpant/CCOIN
 
 ---
 
-### 🎙️ **LYRA – Virtual Assistant**
+ 🎙️ LYRA – Virtual Assistant
 - Voice-controlled assistant using Web Speech API  
 - Built with HTML, CSS & JavaScript  
-🔗 Repo: **https://github.com/Umangpant/LYRA**
+🔗 Repo: https://github.com/Umangpant/LYRA
 
 ---
 
-## 📊 GitHub Analytics
+ 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umangpant&theme=highcontrast" height="170"/>
 </p>
