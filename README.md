@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://i.imgur.com/sYVj6xp.gif" width="900"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Umang Pant</h1>
 <h3 align="center">Full-Stack Developer | Java • Spring Boot • ReactJS • AWS</h3>
 
@@ -46,34 +42,33 @@
 
  🚀 Featured Projects
 
- 🚗 CDRIVE – Car Renting Website**
-- Full-stack web app using ReactJS + Spring Boot  
-- JWT Authentication, Spring Security  
-- RabbitMQ messaging + MySQL database  
-🔗 Repo: https://github.com/Umangpant/CDRIVE
+<div align="center">
+
+ 🚗 CDRIVE – Car Renting Website
+<a href="https://github.com/Umangpant/CDRIVE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Umangpant&repo=CDRIVE&theme=highcontrast" />
+</a>
 
 ---
 
  🪙 CCOIN – Crypto Price Tracker
-- Real-time cryptocurrency tracker using CoinGecko API 
-- Deployed on Vercel for fast global performance  
-- Responsive UI built with React  
-🔗 Live: https://ccoin-navy.vercel.app  
-🔗 Repo: https://github.com/Umangpant/CCOIN
+<a href="https://github.com/Umangpant/CCOIN">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Umangpant&repo=CCOIN&theme=highcontrast" />
+</a>
 
 ---
 
  🎙️ LYRA – Virtual Assistant
-- Voice-controlled assistant using Web Speech API  
-- Built with HTML, CSS & JavaScript  
-🔗 Repo: https://github.com/Umangpant/LYRA
+<a href="https://github.com/Umangpant/LYRA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Umangpant&repo=LYRA&theme=highcontrast" />
+</a>
+
+</div>
 
 ---
 
+
  📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umangpant&theme=highcontrast" height="170"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Umangpant&show_icons=true&theme=highcontrast" height="170"/>
