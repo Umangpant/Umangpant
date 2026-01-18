@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://i.imgur.com/kk0YtQp.gif" width="900" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Umang Pant</h1>
 <h3 align="center">Full-Stack Developer | Java • Spring Boot • ReactJS • AWS</h3>
 
@@ -5,9 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=Umangpant&label=Profile%20views&color=blue&style=flat" />
 </p>
 
-<!-- Coding Animation -->
+
 <p align="center">
-  <img src="https://i.gifer.com/3Ilv.gif" width="400" alt="coding gif"/>
+  <img src="https://i.gifer.com/3Ilv.gif" width="400"/>
 </p>
 
 ---
@@ -32,9 +37,9 @@
 
 ---
 
-## 💻 Languages and Tools
+## 🛠️ Languages & Tools (Fully aligned with your resume)
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,react,firebase,python,mysql,java,figma,gcp,aws,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,javascript,html,css,mysql,aws,git,github,postman,idea,vscode" />
 </p>
 
 ---
@@ -42,35 +47,39 @@
 ## 🚀 Featured Projects
 
 ### 🚗 **CDRIVE – Car Renting Website**
-- Full-stack car rental application  
-- ReactJS + Spring Boot  
-- JWT auth, RabbitMQ, MySQL  
-🔗 Repo: https://github.com/Umangpant/CDRIVE
+- Full-stack web app using ReactJS + Spring Boot  
+- JWT Authentication, Spring Security  
+- RabbitMQ messaging + MySQL database  
+🔗 Repo: **https://github.com/Umangpant/CDRIVE**
 
 ---
 
 ### 💹 **CCOIN – Crypto Price Tracker**
-- Live cryptocurrency price tracker  
-- CoinGecko API  
+- Real-time crypto tracker using CoinGecko API  
 - AWS S3 + CloudFront deployment  
-🔗 Live: https://ccoin-navy.vercel.app  
-🔗 Repo: https://github.com/Umangpant/CCOIN
+- Responsive UI  
+🔗 Live: **https://ccoin-navy.vercel.app**  
+🔗 Repo: **https://github.com/Umangpant/CCOIN**
 
 ---
 
 ### 🎙️ **LYRA – Virtual Assistant**
-- Voice-controlled assistant  
-- JS + Web Speech API  
-🔗 Repo: https://github.com/Umangpant/LYRA
+- Voice-controlled assistant using Web Speech API  
+- Built with HTML, CSS & JavaScript  
+🔗 Repo: **https://github.com/Umangpant/LYRA**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umangpant&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umangpant&theme=highcontrast" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umangpant&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umangpant&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Umangpant&show_icons=true&theme=highcontrast" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umangpant&layout=compact&theme=highcontrast" height="170"/>
 </p>
+
+---
+
+
