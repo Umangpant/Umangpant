@@ -27,7 +27,7 @@
 <a href="https://www.linkedin.com/in/umang-pant-b8a85123a" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://instagram.com/Umang_pant" target="_blank">
+<a href="https://www.instagram.com/Umang_pant_" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 </p>
