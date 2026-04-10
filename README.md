@@ -40,10 +40,6 @@
   <img src="https://skillicons.dev/icons?i=java,spring,react,javascript,html,css,bootstrap,vite,mysql,aws,git,github,postman,idea,vscode,rabbitmq" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" height="37"/>
-</p>
-
 ---
 
 <div align="center">
