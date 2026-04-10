@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Umang Pant</h1>
 <h3 align="center">Full-Stack Developer | Java • Spring Boot • ReactJS • AWS</h3>
 
@@ -6,45 +5,51 @@
   <img src="https://komarev.com/ghpvc/?username=Umangpant&label=Profile%20views&color=blue&style=flat" />
 </p>
 
-
 <p align="center">
   <img src="https://i.gifer.com/3Ilv.gif" width="400"/>
 </p>
 
 ---
 
- 👨‍💻 About Me  
-- 💻 Full-stack developer working with Java, Spring Boot, ReactJS, MySQL 
-- ☁️ Exploring AWS Cloud and backend scalability  
-- 🚀 Passionate about Backend APIs, Security
-- 🤝 I’m open to collaborating on impactful full-stack projects to grow my skills and explore new tech.
+## 👨‍💻 About Me
+
+- 💻 Full-stack developer working with Java, Spring Boot, ReactJS, MySQL
+- ☁️ Exploring AWS Cloud and backend scalability
+- 🚀 Passionate about Backend APIs, Security & Distributed Systems
+- 🤝 Open to collaborating on impactful full-stack projects
 - 📫 Email: pantumang2001@gmail.com
 
 ---
 
-🌐 Connect with me
+## 🌐 Connect with Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/umang-pant-b8a85123a" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="https://www.instagram.com/Umang_pant_" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
+  <a href="https://www.linkedin.com/in/umang-pant-b8a85123a" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/Umang_pant_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
 </p>
 
 ---
 
- 🛠️ Languages & Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,react,javascript,html,css,mysql,aws,git,github,postman,idea,vscode" />
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,javascript,html,css,bootstrap,vite,mysql,aws,git,github,postman,idea,vscode,rabbitmq" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" height="37"/>
 </p>
 
 ---
 
 <div align="center">
-  <img 
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlzbW1raGIwcjBlYzZheHBkY2hkdW1naWZ6a3l0dHExcWhtdzdxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif" 
-    width="450" 
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlzbW1raGIwcjBlYzZheHBkY2hkdW1naWZ6a3l0dHExcWhtdzdxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif"
+    width="450"
     alt="coding gif"
   />
 </div>
